@@ -1,0 +1,41 @@
+Introduction: players, cards, chaal
+Three Card Poker, is an Indian gambling game, also known as Flush (or Flash), and is almost identical to the British game 3 Card Brag. An international 52 card pack is used, cards ranking in the usual order from ace (high) down to two (low). Any reasonable number of players can take part; it is probably best for about 4 to 7 players.
+
+Before playing it is necessary to agree the value of the minimum stake (which I will call one unit). Everyone places this minimum stake in the pot - a collection of money in the centre of the table, which will be won by one of the players. The dealer deals out the cards one at a time until everyone has three cards. The players then bet on who has the best three card hand. Each has the option to look at their three-card hand before betting (playing seen) or to leave their cards face down on the table (playing blind).
+
+The ranking of hands
+The ranking of the possible hands, from high to low, is as follows.
+
+1) Trio or Trail - three cards of the same rank. Three aces are the best trio and three twos are the lowest.
+2) Straight run - three consecutive cards of the same suit. Ace can be used in the run A-2-3, which is the highest straight run. Next comes A-K-Q, K-Q-J and so on down to 4-3-2, which is the lowest. 2-A-K is not a valid run.
+3)Normal run - three consecutive cards, not all of the same suit. A-2-3 is the best normal run, then A-K-Q, K-Q-J and so on down to 4-3-2. 2-A-K is not valid.
+4) Colour - any three cards of the same suit. When comparing two colours, compare the highest card; if these are equal compare the second; if these are equal too, compare the lowest. Thus the highest colour is A-K-J and the lowest is 5-3-2.
+5)Pair - two cards of the same rank. Between two such hands, compare the pair first, then the odd card if these are equal. The highest pair hand is therefore A-A-K and the lowest is 2-2-3.
+6)High card - three cards that do not belong to any of the above types. Compare the highest card first, then the second highest, then the lowest. The best hand of this type is A-K-J of mixed suits, and the worst is 5-3-2.
+Any hand of a higher type beats any hand of a lower type - for example the lowest run 4-3-2 beats the best colour A-K-J.
+
+The betting process
+The betting starts with the player to the left of the dealer, and continues with players taking turns in clockwise order around the table, for as many circuits as are needed. Each player in turn can either put an additional bet into the pot to stay in, or pay nothing further and fold. When folding you permanently drop out of the betting and sacrifice any money you have already put into the pot during that deal.
+
+The amount that you have to put in at your turn in order to stay in the game depends on the "current stake", and whether you are playing blind or seen (a seen player is known in Hindi as 'chaal'). Seen players have to bet twice as much as blind players to stay in. At the start of the betting the current stake is one unit (i.e. the amount that each player put in the pot as an ante).
+
+If you are a blind player (you have not looked at your cards), you must put in at least the current stake and not more than twice the current stake. The current stake for the next player is then the amount that you put in.
+If you are a seen player you must bet at least twice the current stake and not more than four times the current stake. The current stake for the next player becomes half the amount that you bet.
+If you are a blind player, you may choose to look at your cards when your turn comes to bet. You then become a seen player and from that turn onwards you must bet at least twice the current stake (or fold).
+
+The betting continues in this way until one of the following things happens:
+
+All except one player have folded. In that case the last surviving player wins all the money in the pot, ireespective of the cards held.
+All except two players have folded and one of these players at their turn pays for a show. In that case the cards of both players are exposed and compared.
+The rules for a show are as follows:
+
+A show cannot occur until all but two players have dropped out.
+If you are a blind player, the cost of a show is the current stake, paid into the pot, irrespective of whether the other player is blind or seen. You do not look at your own cards until after you have paid for the show.
+If you are a seen player and the other player is blind, you are not allowed to demand a show. The seen player can only continue betting or drop out.
+If both players are seen, either player in turn may pay twice the current stake for a show.
+In a show, both players' cards are exposed, and the player whose hand is higher ranking wins the pot. If the hands are equal, the player who did not pay for the show wins the pot.
+If all the players are seen, then at your turn, immediately after betting the minimum amount (twice the current stake), you can ask the player who bet immediately before you for a compromise, also known as a sideshow. The player before you can accept or refuse the compromise.
+
+If the compromise is accepted, the two players involved privately compare their cards, and the player with the lower ranking cards must immediately fold. If they are equal, the player who asked for the compromise must fold.
+If the compromise is refused, the betting continues as usual with the player after the one who asked for the compromise.
+Example. Players A, B , C & D are playing the game. They all put 1 unit on the table and D deals. Player A decides to play blind and puts one more unit. Player B sees his cards and folds. Player C plays blind and bets one unit. Player D looks at his cards and puts in 2 units (the minimum amount); the current stake remains at one unit. Player A raises the stake by putting in 2 units. Player C looks at his cards and folds. Player D puts in 4 units (the minimum amount for a seen player since A chas raised the current stake to 2). Player A decides to look at his cards, and having done so he puts in 4 units and asks for a show. Player D shows his cards and the winner takes it all.
